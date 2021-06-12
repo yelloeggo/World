@@ -1,0 +1,32 @@
+.title{
+    text-align: center;
+    color: black;
+    font-size: 40px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+.nav{
+    text-align: right;
+    width: 475px;
+    height: 24px;
+    background-color: rgb(138, 43, 226);
+    font-size: 16px;
+}
+
+a:link{
+    color: pink;
+    text-decoration: none;
+}
+
+a:visited{
+    color: pink;
+    text-decoration: none;
+}
+
+a:hover{
+    color:white;
+}
+
+.dreams{
+    float: right;
+}

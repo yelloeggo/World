@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(179, 225, 243);
+    background-image: url("galaxy.jpg");
+    background-repeat: repeat-x;
+}
+
+.welcome{
+    text-align: center;
+    vertical-align: middle;
+    color: black;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 70px;
+}
+
+.nav{
+    text-align: right;
+    width: 525px;
+    height: 28px;
+    background-color: pink;
+    font-size: 20px;
+}
+
+a:link{
+    color: blue;
+    text-decoration: none;
+}
+
+a:visited{
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover{
+    color: blueviolet;
+}
+
+.me{
+    margin: 0 0 0 20%;
+}
+
+.aboutMe{
+    float: right;
+    margin: 0 20% 0 0;
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style-image: url("star.jpg");
+}
+
+.beliefs{
+    clear: both;
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin:auto 5% auto 5%;
+}
+
+.contact{
+    text-align: center;
+    padding: 1%;
+    font-size: large;
+}
+
+.twitter{
+    vertical-align: .07in;
+}
