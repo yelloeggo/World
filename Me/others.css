@@ -26,3 +26,7 @@ a:visited{
 a:hover{
     color:white;
 }
+
+.dreams{
+    float: right;
+}
